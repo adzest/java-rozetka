@@ -18,7 +18,7 @@
 6) Add product to the basket
 
 ### Test plan:
-- Create end2end test suite
+- Create regression end2end test
 
 ### How to run test suite:
 1) macOS_Chrome:
