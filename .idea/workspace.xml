@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57f9d788-f1c5-4ce0-b58a-9df4e8d910ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__cglib_cglib_3_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_atlassian_fugue_fugue_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_23_6_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_digester_commons_digester_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_validator_commons_validator_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_appium_java_client_6_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_ant_ant_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_ant_ant_launcher_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_avaje_avaje_agentloader_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mindrot_jbcrypt_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_openpnp_opencv_3_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/ColorsTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/BasketHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/web/ProductHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/BasketPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/ProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ezlo_framework$IncludeExcludeDevice_AtNmaServer_IntegrationTest.ic" NAME="IncludeExcludeDevice_AtNmaServer_IntegrationTest Coverage Results" MODIFIED="1548077159352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ezlo.automation.framework.tests.nma.api.feature.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ezlo_framework$Arduino_IncludeDevices_DebugTest.ic" NAME="Arduino_IncludeDevices_DebugTest Coverage Results" MODIFIED="1548062542867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ezlo.automation.framework.tests.unit.arduino.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ezlo_framework$ezlo_framework__Dev_Unit_NMA_WebSocket_.ic" NAME="ezlo-framework [Dev_Unit_NMA_WebSocket] Coverage Results" MODIFIED="1551183953562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-rozetka" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-rozetka" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-rozetka" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="test" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/clientWeb/AddProductToBasketMainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/MainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="e#664#665#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
+                <element signature="e#1260#1261#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Specification" />
+        <option value="Concept" />
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nmaWebSocket.getPingPongResponse</find>
+      <find>s_Method</find>
+      <find>return</find>
+      <find>app.nma().api().webSocket()</find>
+      <find>ensureRegister2NmaAsPortal</find>
+      <find>getGetAllHubs_Method</find>
+      <find>&quot;completed&quot;:100,&quot;gatewayId&quot;:&quot;zwave&quot;,&quot;message&quot;:&quot;ezlo.device.including&quot;</find>
+      <find>System.out.println</find>
+      <find>suite_deva_nma_web_socket_unit</find>
+      <find>&quot;serial&quot;: null</find>
+      <find>Logout</find>
+      <find>unregister</find>
+      <find>Unregistered</find>
+      <find>&quot;method&quot;: &quot;</find>
+      <find>this.getClass()</find>
+      <find>%s&quot;, new Object() {}.</find>
+      <find>connection</find>
+      <find>timeo</find>
+      <find>callbackQee</find>
+      <find>formatMessage</find>
+      <find>OBJ_HUB_UNDER_TEST</find>
+      <find>hub</find>
+      <find>Text</find>
+      <find>_Method</find>
+      <find>getPI</find>
+      <find>getPingCommandPongResponse</find>
+      <find>nmaWebSocket.</find>
+      <find>withMov</find>
+      <find>md5</find>
+      <find>integration</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>mms</replace>
+      <replace>web_props</replace>
+      <replace>webProps</replace>
+      <replace>deviceCaps_nexus_5x_8_1_0</replace>
+      <replace>stageSTAGING</replace>
+      <replace>deviceCaps_iphone_6_ios_12_0</replace>
+      <replace>deviceCaps_</replace>
+      <replace>_stageAUTO</replace>
+      <replace>_stagePROD</replace>
+      <replace>_stageTINY</replace>
+      <replace>/back_end/</replace>
+      <replace>.ocs().ui().</replace>
+      <replace>integration</replace>
+      <replace>gerRes</replace>
+      <replace>log.debug(</replace>
+      <replace>info</replace>
+      <replace>tasks.doFirst {</replace>
+      <replace>[[ezlo.gateway.busy.device_removed]]</replace>
+      <replace>--&gt;</replace>
+      <replace>-----&gt;</replace>
+      <replace>@Expose @SerializedName</replace>
+      <replace>getPingPongResponse</replace>
+      <replace>return app.nma().api().webSocket().</replace>
+      <replace>nmaWebSocket</replace>
+      <replace>log.debug</replace>
+      <replace>new Object() {}.getClass()</replace>
+      <replace>%s&quot;,</replace>
+      <replace>HUB_UNDER_TEST</replace>
+      <replace>return nmaWebSocket.</replace>
+      <replace>accept</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/test/java/com/ezlo/automation/framework/model/nma/api/methods/register</dir>
+      <dir>$PROJECT_DIR$/src/test/java/com/ezlo/automation/framework/model/nma/api/methods/register/auto_gen</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/resources/testng/webUI/5_regression/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/ocs/api/Api.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/ocs/db/Db.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/ocs/ЦуиСдшуте.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/ocs/Ocs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/ocs/WebClient.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/ocs/ui/Ui.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/ocs/ui/web/CategoriesHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/ocs/ui/web/MainHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/ui/web/MainHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/ui/Ui.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common_baby/Constants.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/Jira.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/ocs/ui/SignIn_AtWebUi_WithNmaServer_SystemTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/web_props/rozetka/stagePROD.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/App.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/ocs/ui/SearchAtMainPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/model/data/AccountData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common_baby/listners/MyTestListener.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/testng/client.web/5_regression/testng.xml" />
+        <option value="$PROJECT_DIR$/gradle.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/web/MainHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/ocs/OCSCustomerForm.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/ocs/Categories.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/ProductHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/web/CategoriesHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/ocs/ProductPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/ocs/CategoriesPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/client/web/ColorsTypes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/client/web/SearchAtMainPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/ocs/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/ColorsTypes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/CategoriesPage.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/clientWeb/test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/clientWeb/SearchAtMainPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/web/ProductHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/ProductPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/WebClient.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/BasketHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/clientWeb/AddProductToBasket.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/BasketPage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/testng/5_regression/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/Constants.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/clientWeb/AddProductToBasketMainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/driver_factory/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/Base.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/BasePage.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="isakov" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="isakov" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="isakov" type="462c0819:PsiDirectoryNode" />
+              <item name="driver_factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="isakov" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="isakov" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="clientWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="isakov" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="isakov" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="clientWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rozetka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="5_regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/oleksiiisakov/Documents/Bitbucket/ezlo-framework/src/test/java/com/ezlo/automation/framework/driver_factory/DriverFactory.java&#10;SyncEZLOData&#9;ACTION&#9;null&#10;&quot;browser&quot;&#9;null&#9;null&#10;[Framework]&#9;null&#9;null" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553155990015" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.345977" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/testng/webUI/5_regrassion" />
+      <recent name="$PROJECT_DIR$/src/test/resources/testng/webUI" />
+      <recent name="$PROJECT_DIR$/src/test/resources/testng/3_system" />
+      <recent name="$PROJECT_DIR$/src/test/resources/web_props/rozetka" />
+      <recent name="$PROJECT_DIR$/src/test/resources/web_props" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.ezlo.automation.framework.common_baby.Constants" />
+      <recent name="com.ezlo.automation.framework.common_baby.CommonMethods" />
+      <recent name="com.ezlo.automation.framework.generators.ApiDataSupplier" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ezlo.automation.framework.helpers.nma.api.NmaWebSocketHelper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/testng" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/ezlo/automation/framework/tests/nma/api/methods/hubs/h2" />
+      <recent name="$PROJECT_DIR$/src/test/resources/testng/ocs" />
+      <recent name="$PROJECT_DIR$/src/test/resources/testng/nma" />
+      <recent name="$PROJECT_DIR$/src/test/resources/testng/mms" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ua.rozetka.isakov.pages.clientWeb" />
+      <recent name="com.ua.rozetka.isakov.pages.ocs" />
+      <recent name="com.ezlo.automation.framework.tests.nma.api.methods.atom_32" />
+      <recent name="com.ezlo.automation.framework.common_baby.arduino" />
+      <recent name="com.ezlo.automation.framework.tests.nma.api.methods.atom" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ua.rozetka.isakov.helpers.client" />
+      <recent name="com.ua.rozetka.isakov.tests.client.web" />
+      <recent name="com.ezlo.automation.framework.tests.nma.api.methods.atom_32.tmp" />
+      <recent name="com.ezlo.automation.framework.model.nma.api.methods.get_gateways" />
+      <recent name="com.ezlo.automation.framework.model.nma.api.methods.register" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.java-rozetka [localLinChrome]">
+    <configuration name="[LINUX]-[Unit]-[Auto]-all" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-PappProps=&quot;src/test/resources/app_props/stageAuto.properties&quot; -Psuites=&quot;src/test/resources/testng/unit/testng.xml&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testsTask" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="[LINUX]-[Unit]-[Auto]-noSql" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-PappProps=&quot;src/test/resources/app_props/stageAuto.properties&quot; -Psuites=&quot;src/test/resources/testng/unit/noSqlTestNG.xml&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testsTask" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="[MAC]-[Mob]-[QA]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-Psuites=&quot;src/test/resources/testng/accept/mob/testng.xml&quot; -Pdriver=&quot;appium&quot; -PappiumServer=&quot;http://127.0.0.1:4723/wd/hub&quot; -Pos=&quot;MAC&quot; -Pplatform=&quot;mob&quot; -PdeviceCaps=&quot;src/test/resources/mob_caps/app/mob_android_ezlo_qa.json&quot; -PappCaps=&quot;src/test/resources/mob_caps/dvc/nexus_5x_8_1_0.json&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testsTask" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="[MAC]-[Web]-[Auto]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-Psuites=&quot;src/test/resources/testng/accept/web/testng.xml&quot; -Pplatform=&quot;web&quot; -Pbrowser=&quot;chrome&quot; -PappProps=&quot;src/test/resources/app_props/stageAuto.properties&quot; -PseleniumServer=&quot;http://localhost:4444/wd/hub&quot; -Ptarget=&quot;jenkins&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testsTask" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="[android][meb][chrome][qa]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-Psuites=&quot;src/test/resources/testng/accept/web/testng.xml&quot; -Pplatform=&quot;mob&quot; -Pbrowser=&quot;chrome&quot; -Pdriver=&quot;appium&quot; -PappiumServerIp=&quot;127.0.0.1&quot; -PappiumServerPort=&quot;4723&quot; -PappProps=&quot;src/test/resources/app_props/stageQa.properties&quot; -PdeviceCaps=&quot;src/test/resources/mob_caps/dvc/nexus_5x_8_1_0.json&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testsTask" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ezlo-framework [build]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java-rozetka [localLinChrome]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="localLinChrome" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java-rozetka [localMacChrome]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="localMacChrome" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java-rozetka [localMacFirefox]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="localMacFirefox" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java-rozetka [localMacSafari]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="localMacSafari" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AddProductToBasketMainPage.test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-rozetka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ua.rozetka.isakov.tests.clientWeb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ua.rozetka.isakov.tests.clientWeb" />
+      <option name="MAIN_CLASS_NAME" value="com.ua.rozetka.isakov.tests.clientWeb.AddProductToBasketMainPage" />
+      <option name="METHOD_NAME" value="test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JiraUtilTests" type="TestNG" nameIsGenerated="true">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.unit.jira.JiraUtilTests" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.unit.jira" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.unit.jira.JiraUtilTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginUserTests-[AUTO]" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.integration.api.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.integration.api.ws.methods" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.nma.nma.methods.LoginUserTest" />
+      <option name="METHOD_NAME" value="testName" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -DappProps=&quot;src/test/resources/app_props/stageAuto.properties&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginUserTests-[QA]" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.integration.api.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.integration.api.ws.methods" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.nma.nma.methods.LoginUserTest" />
+      <option name="METHOD_NAME" value="testName" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -DappProps=&quot;src/test/resources/app_props/stageQA.properties&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostgresIntegrationTests" type="TestNG" nameIsGenerated="true">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.nma.db.MongoDB_UnitTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.integration.db" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.be.api.db.ocs.PostgresIntegrationTests" />
+      <option name="METHOD_NAME" value="testDeleteEzlosFromMongo" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -DappProps=&quot;src/test/resources/app_props/stageAuto.properties&quot; -Dsuites=&quot;src/test/resources/testng/unit/noSqlTestNG.xml&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[func][mob][android][ezlo][qa]LaunchMobAppTests" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.nma.ui.mob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.system.nma" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.ui.web.nma.mob.LaunchMobAppTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/accept/mob/ezlo/android/testng.xml&quot; -Dplatform=&quot;mob&quot; -DdeviceCaps=&quot;src/test/resources/mob_caps/app/mob_android_ezlo_qa.json&quot; -DappCaps=&quot;src/test/resources/mob_caps/dvc/nexus_5x_8_1_0.json&quot; -DappProps=&quot;src/test/resources/app_props/stageQA.properties&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[func][mob][ios][ezlo][dev]LaunchMobAppTests" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.nma.ui.mob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.mob" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.ui.web.nma.mob.LaunchMobAppTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/accept/mob/ezlo/ios/testng.xml&quot; -Ddriver=&quot;appium&quot; -DappiumServerIp=&quot;127.0.0.1&quot; -DappiumServerPort=&quot;4730&quot; -Dplatform=&quot;mob&quot; -DdeviceCaps=&quot;src/test/resources/mob_caps/app/mob_ios_ezlo_dev.json&quot; -DappCaps=&quot;src/test/resources/mob_caps/dvc/iphone_6_ios_12_0.json&quot; -DappProps=&quot;src/test/resources/app_props/stageQA.properties&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[func][mob][ios][ezlo][qa]LaunchMobAppTests" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.nma.ui.mob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.mob" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.ui.web.nma.mob.LaunchMobAppTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/accept/mob/ezlo/ios/testng.xml&quot; -Ddriver=&quot;appium&quot; -DappiumServerIp=&quot;127.0.0.1&quot; -DappiumServerPort=&quot;4730&quot; -Dplatform=&quot;mob&quot; -DdeviceCaps=&quot;src/test/resources/mob_caps/app/mob_ios_ezlo_qa.json&quot; -DappCaps=&quot;src/test/resources/mob_caps/dvc/iphone_6_ios_12_0.json&quot; -DappProps=&quot;src/test/resources/app_props/stageQA.properties&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[func][mob][ios][zlink][qa]LaunchMobAppTests" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.nma.ui.mob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.mob" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.ui.web.nma.mob.LaunchMobAppTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/accept/mob/ezlo/ios/testng.xml&quot; -Ddriver=&quot;appium&quot; -DappiumServerIp=&quot;127.0.0.1&quot; -DappiumServerPort=&quot;4730&quot; -Dplatform=&quot;mob&quot; -DdeviceCaps=&quot;src/test/resources/mob_caps/app/mob_ios_zlink_qa.json&quot; -DappCaps=&quot;src/test/resources/mob_caps/dvc/iphone_6_ios_12_0.json&quot; -DappProps=&quot;src/test/resources/app_props/stageQA.properties&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[func][mob][zlink][dev]LaunchMobAppTests" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.nma.ui.mob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.mob" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.ui.web.nma.mob.LaunchMobAppTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/accept/mob/zlink/testng.xml&quot; -Ddriver=&quot;appium&quot; -DappiumServerIp=&quot;127.0.0.1&quot; -DappiumServerPort=&quot;4723&quot; -Dos=&quot;MAC&quot; -Dplatform=&quot;mob&quot; -DdeviceCaps=&quot;src/test/resources/mob_caps/app/mob_android_zlink_dev.json&quot; -DappCaps=&quot;src/test/resources/mob_caps/dvc/nexus_5x_8_1_0.json&quot; -DappProps=&quot;src/test/resources/app_props/stageQA.properties&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[system][desk][local][chrome][auto]SignInTests" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.system.ocs.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.system.ocs" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.system.ocs.web.SignInTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/accept/web/testng.xml&quot; -DappProps=&quot;src/test/resources/app_props/stageAuto.properties&quot; -Dplatform=&quot;web&quot; -Dbrowser=&quot;chrome&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[system][mob][android][chrome][auto]SignInTests" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.system.ocs.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.system.ocs" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.system.ocs.web.SignInTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/accept/web/testng.xml&quot; -Dplatform=&quot;mob&quot; -Dbrowser=&quot;chrome&quot; -Ddriver=&quot;appium&quot; -DappProps=&quot;src/test/resources/app_props/stageAuto.properties&quot; -DdeviceCaps=&quot;src/test/resources/mob_caps/dvc/nexus_5x_8_1_0.json&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[system][mob][android][chrome][qa]SignInTests" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.system.ocs.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.system.ocs" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.system.ocs.web.SignInTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/accept/web/testng.xml&quot; -Dplatform=&quot;mob&quot; -Dbrowser=&quot;chrome&quot; -Ddriver=&quot;appium&quot; -DappProps=&quot;src/test/resources/app_props/stageQa.properties&quot; -DdeviceCaps=&quot;src/test/resources/mob_caps/dvc/nexus_5x_8_1_0.json&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[unit][mob][android][ezlo][qa]" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.nma.ui.mob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.unit.drivers.mob" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.unit.drivers.mob.LaunchMobAppByAppiumDriverTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/unit/andriodTestNG.xml&quot; -DappiumServerIp=&quot;127.0.0.1&quot; -DappiumServerPort=&quot;4727&quot; -Dplatform=&quot;mob&quot; -DdeviceCaps=&quot;src/test/resources/mob_caps/app/mob_android_ezlo_qa.json&quot; -DappCaps=&quot;src/test/resources/mob_caps/dvc/nexus_5x_8_1_0.json&quot; -DappProps=&quot;src/test/resources/app_props/stageQA.properties&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[unit][mob][ch][qa]" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.nma.ui.mob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.system.ocs" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.system.ocs.web.SignInTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/accept/web/ocs/testng.xml&quot; -Dplatform=&quot;mob&quot; -DdeviceCaps=&quot;src/test/resources/mob_caps/dvc/nexus_5x_8_1_0.json&quot; -DappProps=&quot;src/test/resources/app_props/nma/stageQA.properties&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[unit][mob][ezlo][qa]" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.nma.ui.mob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.unit.mob" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.unit.mob.LaunchMobAppByAppiumDriverTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/unit/andriodTestNG.xml&quot; -Dplatform=&quot;mob&quot; -DdeviceCaps=&quot;src/test/resources/mob_caps/app/mob_android_ezlo_qa.json&quot; -DappCaps=&quot;src/test/resources/mob_caps/dvc/nexus_5x_8_1_0.json&quot; -DappProps=&quot;src/test/resources/app_props/nma/stageQA.properties&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[unit][mob][ios][ezlo][qa]" type="TestNG">
+      <module name="ezlo-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ezlo.automation.framework.tests.nma.ui.mob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ezlo.automation.framework.tests.unit.drivers.mob" />
+      <option name="MAIN_CLASS_NAME" value="com.ezlo.automation.framework.tests.unit.drivers.mob.LaunchMobAppByAppiumDriverTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dsuites=&quot;src/test/resources/testng/unit/iOSTestNG.xml&quot; -DappiumServerIp=&quot;127.0.0.1&quot; -DappiumServerPort=&quot;4726&quot; -Dplatform=&quot;mob&quot; -DdeviceCaps=&quot;src/test/resources/mob_caps/app/mob_ios_ezlo_qa.json&quot; -DappCaps=&quot;src/test/resources/mob_caps/dvc/iphone_6_ios_12_0.json&quot; -DappProps=&quot;src/test/resources/app_props/stageQA.properties&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.[LINUX]-[Unit]-[Auto]-all" />
+      <item itemvalue="Gradle.[MAC]-[Web]-[Auto]" />
+      <item itemvalue="Gradle.[android][meb][chrome][qa]" />
+      <item itemvalue="Gradle.[MAC]-[Mob]-[QA]" />
+      <item itemvalue="Gradle.[LINUX]-[Unit]-[Auto]-noSql" />
+      <item itemvalue="Gradle.ezlo-framework [build]" />
+      <item itemvalue="Gradle.java-rozetka [localMacFirefox]" />
+      <item itemvalue="Gradle.java-rozetka [localMacSafari]" />
+      <item itemvalue="Gradle.java-rozetka [localMacChrome]" />
+      <item itemvalue="Gradle.java-rozetka [localLinChrome]" />
+      <item itemvalue="TestNG.JiraUtilTests" />
+      <item itemvalue="TestNG.LoginUserTests-[AUTO]" />
+      <item itemvalue="TestNG.LoginUserTests-[QA]" />
+      <item itemvalue="TestNG.PostgresIntegrationTests" />
+      <item itemvalue="TestNG.[func][mob][android][ezlo][qa]LaunchMobAppTests" />
+      <item itemvalue="TestNG.[func][mob][ios][ezlo][qa]LaunchMobAppTests" />
+      <item itemvalue="TestNG.[func][mob][ios][zlink][qa]LaunchMobAppTests" />
+      <item itemvalue="TestNG.[func][mob][ios][ezlo][dev]LaunchMobAppTests" />
+      <item itemvalue="TestNG.[func][mob][zlink][dev]LaunchMobAppTests" />
+      <item itemvalue="TestNG.[unit][mob][ezlo][qa]" />
+      <item itemvalue="TestNG.[unit][mob][ch][qa]" />
+      <item itemvalue="TestNG.[system][mob][android][chrome][qa]SignInTests" />
+      <item itemvalue="TestNG.[unit][mob][ios][ezlo][qa]" />
+      <item itemvalue="TestNG.[unit][mob][android][ezlo][qa]" />
+      <item itemvalue="TestNG.[system][mob][android][chrome][auto]SignInTests" />
+      <item itemvalue="TestNG.[system][desk][local][chrome][auto]SignInTests" />
+      <item itemvalue="TestNG.AddProductToBasketMainPage.test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.java-rozetka [localLinChrome]" />
+        <item itemvalue="TestNG.AddProductToBasketMainPage.test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket" />
+        <item itemvalue="Gradle.java-rozetka [localMacChrome]" />
+        <item itemvalue="Gradle.java-rozetka [localMacSafari]" />
+        <item itemvalue="Gradle.java-rozetka [localMacFirefox]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES,SHOW_PROPERTIES,VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57f9d788-f1c5-4ce0-b58a-9df4e8d910ce" name="Default Changelist" comment="" />
+      <created>1540914648005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540914648005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AddProductToBasketMainPage_test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket - 2019.03.21 at 09h 26m 18s.xml">
+      <configuration name="AddProductToBasketMainPage.test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddProductToBasketMainPage_test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket - 2019.03.21 at 09h 28m 25s.xml">
+      <configuration name="AddProductToBasketMainPage.test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddProductToBasketMainPage_test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket - 2019.03.21 at 09h 31m 24s.xml">
+      <configuration name="AddProductToBasketMainPage.test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddProductToBasketMainPage_test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket - 2019.03.21 at 09h 47m 01s.xml">
+      <configuration name="AddProductToBasketMainPage.test_givenProduct_whenSearchingForAtMainPage_thenCouldBeAddedToBasket" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="java-rozetka_[localLinChrome] - 2019.03.21 at 09h 59m 32s.xml">
+      <configuration name="java-rozetka [localLinChrome]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="java-rozetka_[localLinChrome] - 2019.03.21 at 09h 59m 39s.xml">
+      <configuration name="java-rozetka [localLinChrome]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="java-rozetka_[localLinChrome] - 2019.03.21 at 10h 07m 01s.xml">
+      <configuration name="java-rozetka [localLinChrome]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="java-rozetka_[localLinChrome] - 2019.03.21 at 10h 08m 00s.xml">
+      <configuration name="java-rozetka [localLinChrome]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="java-rozetka_[localLinChrome] - 2019.03.21 at 10h 08m 28s.xml">
+      <configuration name="java-rozetka [localLinChrome]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="java-rozetka_[localLinChrome] - 2019.03.21 at 10h 52m 07s.xml">
+      <configuration name="java-rozetka [localLinChrome]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6643564" visible="true" weight="0.2553648" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info auto_hide="true" x="2058" y="642" width="378" height="292" id="Structure" order="5" sideWeight="0.33564356" side_tool="true" weight="0.3035144" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" weight="0.32771084" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978701" weight="0.53493977" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978701" weight="0.52048194" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32970297" />
+      <window_info anchor="bottom" id="SonarQube" order="8" weight="0.32970297" />
+      <window_info anchor="bottom" id="SonarLint" order="9" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.53493977" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021299" side_tool="true" weight="0.47920793" />
+      <window_info anchor="bottom" id="Build" order="12" sideWeight="0.49893504" weight="0.32771084" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49893504" weight="0.32771084" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32970297" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32970297" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Gradle" order="1" sideWeight="0.4989518" visible="true" weight="0.17453505" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24973376" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32960597" />
+      <window_info anchor="right" id="Jenkins X" order="9" sideWeight="0.5010482" side_tool="true" weight="0.13897763" />
+      <window_info anchor="right" id="Jenkins" order="10" weight="0.32960597" />
+      <window_info anchor="right" id="Maven" order="11" weight="0.32960597" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6643564" visible="true" weight="0.18669528" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info auto_hide="true" x="2058" y="642" width="378" height="292" id="Structure" order="5" sideWeight="0.33564356" side_tool="true" weight="0.3035144" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" weight="0.32771084" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978701" weight="0.52771086" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978701" visible="true" weight="0.52048194" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32970297" />
+      <window_info anchor="bottom" id="SonarQube" order="8" weight="0.32970297" />
+      <window_info anchor="bottom" id="SonarLint" order="9" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.53614455" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021299" side_tool="true" weight="0.47920793" />
+      <window_info anchor="bottom" id="Build" order="12" sideWeight="0.49893504" weight="0.32771084" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49893504" weight="0.32771084" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32970297" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32970297" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Gradle" order="1" sideWeight="0.4989518" visible="true" weight="0.17453505" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24973376" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32960597" />
+      <window_info anchor="right" id="Jenkins X" order="9" sideWeight="0.5010482" side_tool="true" weight="0.13897763" />
+      <window_info anchor="right" id="Jenkins" order="10" weight="0.32960597" />
+      <window_info anchor="right" id="Maven" order="11" weight="0.32960597" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.14.0/6a4c36c02a1f03bdcf5769bffec9ed530ca51111/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java</url>
+          <line>285</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/nma/ui/mob/LaunchAnyMobApplication_WithNmaServer_UnitTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/nma/ui/mob/LaunchAnyMobApplication_WithNmaServer_UnitTest.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ezlo/automation/framework/tests/nma/ToDoNmaIntegrationTest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/mms/api/UnitBeApiMmsTest.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ezlo/automation/framework/common_baby/tmp/temp.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/nma/api/methods/hubs/atom/IntegrationTest_AtomHub_VS_ArduinoDevices.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/nma/api/Api.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/MainPage.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="526" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/nma/api/methods/hubs/atom/IntegrationTest_AtomHub_VS_ArduinoDevices.java</url>
+          <line>20</line>
+          <properties field="atomRemoveDeviceMatcher" class="com.ezlo.automation.framework.tests.nma.api.methods.hubs.atom.IntegrationTest_AtomHub_VS_ArduinoDevices" />
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/ocs/ui/Debug_SignIn_AtWebUi_WithNmaServer_SystemTest.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/ITestResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/web_props/rozetka/stagePROD.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/model/data/AccountData.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/nma/SignInPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/BaseApiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/ocs/OCSSignInPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/listners/MyTestListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="method#afterInvocation#0;class#MyTestListener#0" />
+            <element signature="method#beforeInvocation#0;class#MyTestListener#0" />
+            <element signature="method#onTestStart#0;class#MyTestListener#0" />
+            <element signature="method#onTestSuccess#0;class#MyTestListener#0" />
+            <element signature="method#onTestFailure#0;class#MyTestListener#0" />
+            <element signature="e#3888#4432#1" />
+            <element signature="e#3981#4164#1" />
+            <element signature="e#4170#4422#1" />
+            <element signature="method#onTestSkipped#0;class#MyTestListener#0" />
+            <element signature="method#onTestFailedButWithinSuccessPercentage#0;class#MyTestListener#0" />
+            <element signature="method#onStart#0;class#MyTestListener#0" />
+            <element signature="method#onFinish#0;class#MyTestListener#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/issue_tracker/JiraIssueStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/issue_tracker/JiraIssueTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/issue_tracker/JiraFlowActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/issue_tracker/JiraFieldSelectValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/issue_tracker/JiraIssue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/listners/retryer/RetryListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/listners/retryer/Retryer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/null_web_element/NullWebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/core-api/org/gradle/api/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="444" column="9" selection-start-line="444" selection-start-column="9" selection-end-line="444" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng/clientWeb/5_regression/testng.xml" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="711" column="29" selection-start-line="711" selection-start-column="29" selection-end-line="711" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/CommonMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#jsonFileToString#0;class#CommonMethods#0" />
+            <element signature="method#jsonFileToListOfHashMaps#0;class#CommonMethods#0" />
+            <element signature="method#randInt#0;class#CommonMethods#0" />
+            <element signature="method#genRandomString#0;class#CommonMethods#0" />
+            <element signature="method#getPhoneString#0;class#CommonMethods#0" />
+            <element signature="method#getStringFormattedByPattern#0;class#CommonMethods#0" />
+            <element signature="method#getDateTime#0;class#CommonMethods#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/ocs/OCSSignUpPage.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.12.0/3da2845356347e83a2e698308dc89f05dd00dcca/selenium-support-3.12.0-sources.jar!/org/openqa/selenium/support/PageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/ocs/OCSForgotPasswordPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/ColorsTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/web/CategoriesHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.appium/java-client/6.1.0/4e110c37cb22ea7fcc0916ca0a2288a5308e9fd3/java-client-6.1.0-sources.jar!/org/openqa/selenium/WebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/CategoriesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+          <folding>
+            <element signature="method#selectProductAtCategoriesBy#0;class#CategoriesPage#0" />
+            <element signature="e#813#980#0" />
+            <element signature="e#1001#1045#0" />
+            <element signature="e#1054#1184#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="16" column="7" selection-start-line="16" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/web/ProductHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="n#!!block;n#selectPropertyByText#0;n#ProductHelper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/ProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="method#isProductTitleContains#0;class#ProductPage#0" />
+            <element signature="method#selectPropertyAtProductBy#0;class#ProductPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/BasketPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng/5_regression/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="89" selection-start-line="12" selection-start-column="89" selection-end-line="12" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/internal/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="611" selection-start-line="611" selection-end-line="611" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/common/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.1/5d285d47780839e72fe80a33922f9331068d143c/aspectjweaver-1.9.1-sources.jar!/org/aspectj/weaver/loadtime/Aj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.1/5d285d47780839e72fe80a33922f9331068d143c/aspectjweaver-1.9.1-sources.jar!/org/aspectj/weaver/loadtime/ClassPreProcessorAgentAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/WebClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/web/MainHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/driver_factory/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/client/BasketHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/helpers/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/clientWeb/AddProductToBasketMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/tests/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/rozetka/isakov/pages/clientWeb/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="false" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.345977" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 28 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.345977" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ezlo-framework</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: org.java-websocket:Java-WebSocket:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

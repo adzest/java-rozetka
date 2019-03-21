@@ -1,0 +1,4 @@
+org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'Oleksiis-MacBook-Pro.local', ip: 'fe80:0:0:0:45:2b77:7b72:5a11%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.3', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver

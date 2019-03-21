@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="ROZETKA >> Regression" verbose="1">
+
+    <groups>
+        <run>
+            <include name="regression"/>
+            <include name="ui"/>
+        </run>
+    </groups>
+    <test name="WebUI >> AddProductToBasketMainPage">
+        <classes>
+            <class name="com.ua.rozetka.isakov.tests.clientWeb.AddProductToBasketMainPage"/>
+        </classes>
+    </test>
+
+</suite>

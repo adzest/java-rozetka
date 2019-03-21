@@ -1,0 +1,100 @@
+plugins {
+    id 'idea'
+    id 'java'
+    id("io.qameta.allure") version "2.6.0"
+}
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    jcenter()
+    maven {
+        url "https://maven.atlassian.com/content/repositories/atlassian-public/"
+    }
+}
+
+configurations {
+    agent
+}
+
+dependencies {
+    agent 'org.aspectj:aspectjweaver:1.9.1'
+    compile 'org.testng:testng:6.13.1'
+    compile 'org.hamcrest:java-hamcrest:2.0.0.0'
+    compile 'com.beust:jcommander:1.72'
+    compile 'com.thoughtworks.xstream:xstream:1.4.10'
+    compile 'com.google.code.gson:gson:2.8.2'
+    compile 'log4j:log4j:1.2.17'
+    compile 'io.qameta.allure:allure-gradle:2.5'
+    compile 'io.qameta.allure:allure-testng:2.9.0'
+    compile 'io.qameta.allure:allure-java-commons:2.9.0'
+    compile 'org.seleniumhq.selenium:selenium-java:3.12.0'
+    compile 'io.appium:java-client:6.1.0'
+    compile 'joda-time:joda-time:2.10'
+    compile 'org.avaje:avaje-agentloader:2.1.2'
+    compile 'com.atlassian.fugue:fugue:2.7.0'
+    compile 'org.mindrot:jbcrypt:0.4'                                   // OCS passwords cryption/decryption
+    compile 'com.google.guava:guava:19.0'                               // Necessary for jira integrations
+}
+
+tasks.withType(Test) {
+    group 'test'
+    description 'Task that contains different tests'
+    outputs.upToDateWhen { false }
+    doFirst {
+        jvmArgs "-javaagent:${configurations.agent.singleFile}"
+    }
+}
+
+// os=["LINUX", "MAC", "WINDOWS"]
+// platform=["web, "mob", "meb"]
+// browser=["chrome", "firefox", "MicrosoftEdge", "internet explorer", "safari"]
+// webProps=["stagePROD.properties"]
+
+// CI/CD
+task localMacChrome(type:Test){
+    systemProperty  webProps, rozetkaComUaProd
+    systemProperty platform, platform_web
+    systemProperty os, os_mac
+    systemProperty browser, browser_chrome
+    useTestNG() {
+        suites clientWeb_regression
+    }
+}
+task localMacFirefox(type:Test){
+    systemProperty  webProps, rozetkaComUaProd
+    systemProperty platform, platform_web
+    systemProperty os, os_mac
+    systemProperty browser, browser_firefox
+    useTestNG() {
+        suites clientWeb_regression
+    }
+}
+task localMacSafari(type:Test){
+    systemProperty  webProps, rozetkaComUaProd
+    systemProperty platform, platform_web
+    systemProperty os, os_mac
+    systemProperty browser, browser_safari
+    useTestNG() {
+        suites clientWeb_regression
+    }
+}
+task localWinChrome(type:Test){
+    systemProperty  webProps, rozetkaComUaProd
+    systemProperty platform, platform_web
+    systemProperty os, os_win
+    systemProperty browser, browser_chrome
+    useTestNG() {
+        suites clientWeb_regression
+    }
+}
+task localLinChrome(type:Test){
+    systemProperty  webProps, rozetkaComUaProd
+    systemProperty platform, platform_web
+    systemProperty os, os_unix
+    systemProperty browser, browser_chrome
+    useTestNG() {
+        suites clientWeb_regression
+    }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ignored tests",
+    "matchedStatuses": [
+      "skipped"
+    ]
+  },
+  {
+    "name": "[EXCEPTIONS] Infrastructure problems",
+    "matchedStatuses": [
+      "broken",
+      "failed"
+    ],
+    "messageRegex": ".*Exception:.*"
+  },
+  {
+    "name": "[INTERRUPTIONS] Infrastructure problems",
+    "matchedStatuses": [
+      "broken",
+      "failed"
+    ],
+    "messageRegex": ".*was interrupted.*"
+  },
+  {
+    "name": "[OAK] Outdated tests",
+    "matchedStatuses": [
+      "broken"
+    ],
+    "traceRegex": ".*FileNotFoundException.*"
+  },
+  {
+    "name": "[NEWCOMER] Product defects",
+    "traceRegex": ".*AssertionError: expected [false] but found [true].*",
+    "matchedStatuses": [
+      "failed"
+    ]
+  },
+  {
+    "name": "[REGRESSION] Product defects",
+    "traceRegex": ".*AssertionError: expected [true] but found [false].*",
+    "matchedStatuses": [
+      "failed"
+    ]
+  },
+  {
+    "name": "[MISMATCH] Product defects",
+    "traceRegex": ".*AssertionError:\nExpected.*",
+    "matchedStatuses": [
+      "failed"
+    ]
+  },
+  {
+    "name": "Product defects",
+    "traceRegex": ".*.*",
+    "matchedStatuses": [
+      "failed"
+    ]
+  },
+  {
+    "name": "[FCKUP] Test defects",
+    "matchedStatuses": [
+      "broken"
+    ]
+  }
+]
